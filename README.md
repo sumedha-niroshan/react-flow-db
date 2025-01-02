@@ -1,6 +1,6 @@
 # React  - A Minimal 3-Tier Web Application 🌐
 
-https://github.com/user-attachments/assets/9b47717e-ade8-422a-a9dc-8c0b54f3a6de
+![thumb](https://github.com/user-attachments/assets/9b47717e-ade8-422a-a9dc-8c0b54f3a6de)
 
 
 
